@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://www.linkedin.com/in/anilgunduuz/">Anıl</a>.<br> I'm a Front-End Developer, full time a person.</samp>
+  <samp>Hello there. I'm <a href="https://www.linkedin.com/in/anilgunduuz/">Anıl</a>.<br> I'm a Front-End Developer, full time a source.</samp>
   <br>
   <br>
   <br>
